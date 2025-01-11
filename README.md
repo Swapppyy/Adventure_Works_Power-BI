@@ -10,8 +10,6 @@ These dashboards serve as a comprehensive tool for stakeholders to gain insights
 
 <br>
 
-Checkout my Live Dashboard published over here: <a href="https://www.novypro.com/profile_projects/swapnildeore" target="_blank"><code>Adventure Works Dashboard</code></a>
-
 
 ### Glimpse of my Dashboard:
 <p align="center">
