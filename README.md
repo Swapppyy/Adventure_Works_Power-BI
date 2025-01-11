@@ -10,7 +10,6 @@ These dashboards serve as a comprehensive tool for stakeholders to gain insights
 
 <br>
 
-
 ### Glimpse of my Dashboard:
 <p align="center">
   <img width="100%" src="Adventures_Works.png" />
