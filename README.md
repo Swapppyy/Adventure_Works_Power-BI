@@ -8,6 +8,7 @@ I visualized the insights obtained from the analysis using a variety of tools su
 
 These dashboards serve as a comprehensive tool for stakeholders to gain insights into different aspects of Adventures Work's operations, including sales performance, geographic distribution, product details, and customer demographics. Through this project, valuable insights were derived to inform decision-making and strategic planning within the company.
 
+<br>
 ### Glimpse of my Dashboard:
 <p align="center">
   <img width="100%" src="Adventures_Works.png" />
