@@ -11,23 +11,23 @@ These dashboards serve as a comprehensive tool for stakeholders to gain insights
 
 ## Screenshots of my Dashboard:
 <p align="center">
-  <img width="100%" src="1.png" />
+  <img width="100%" src="1.PNG" />
 </p>
 <br>
 <p align="center">
-  <img width="100%" src="2.png" />
+  <img width="100%" src="2.PNG" />
 </p>
 <br>
 <p align="center">
-  <img width="100%" src="3.png" />
+  <img width="100%" src="3.PNG" />
 </p>
 <br>
 <p align="center">
-  <img width="100%" src="4.png" />
+  <img width="100%" src="4.PNG" />
 </p>
 <br>
 <p align="center">
-  <img width="100%" src="5.png" />
+  <img width="100%" src="5.PNG" />
 </p>
 
 
